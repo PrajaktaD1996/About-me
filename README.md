@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 **Languages & Tools**  
 HTML • CSS • JavaScript • React • TailwindCSS • Git & GitHub  
-Embedded Systems • Arduino • Linux • Node.js • MongoDB • MySQL  
+Embedded Systems • Arduino • Linux • Node.js   
 
 ---
 
