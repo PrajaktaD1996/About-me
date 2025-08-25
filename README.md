@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Prajakta  👋</h1>
+<h1 align="center">Hi there, I'm Prajaktaaa 👋</h1>
 <p align="center">
   💻 Embedded System Developer | 🖥️ Front-End Developer | 🌱 Lifelong Learner<br/>
   🚀 Currently building exciting tech projects and sharpening my problem-solving skills.
