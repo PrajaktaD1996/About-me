@@ -24,7 +24,7 @@ Alongside frontend development, I have hands-on experience in embedded systems u
 - Kivy / KivyMD (UI development)
 ---
 # Projects
-## Swiggy Clone (React + Tailwind)
+## 1. Swiggy Clone (React + Tailwind)
 **Tech Stack:**
 React.js | Tailwind CSS | JavaScript (ES6+) | React Router  
 
@@ -37,7 +37,7 @@ React.js | Tailwind CSS | JavaScript (ES6+) | React Router
 - Shows real-world React architecture
 - Demonstrates reusable UI design and routing
 ---
-## Data Acquisition System (Raspberry Pi)
+## 2.Data Acquisition System (Raspberry Pi)
 **Tech Stack:**
 Python | Raspberry Pi | Kivy / KivyMD  
 
@@ -50,7 +50,7 @@ Python | Raspberry Pi | Kivy / KivyMD
 - Demonstrates embedded systems + software integration
 - Shows real-time data handling capability
 ---
-## Amazon Clone
+## 3. Amazon Clone
 **Tech Stack:**
 HTML5 | CSS3  
 
@@ -62,7 +62,7 @@ HTML5 | CSS3
 - Strengthens HTML/CSS fundamentals
 - Builds UI structuring skills
 ---
-## JavaScript Mini Projects
+## 4. JavaScript Mini Projects
 **Tech Stack:**
 HTML | CSS | JavaScript  
 
@@ -75,7 +75,7 @@ HTML | CSS | JavaScript
 - Strengthens UI interaction handling
 
 ---
-## HTML-CSS Mini Projects
+## 5. HTML-CSS Mini Projects
 **Tech Stack:**
 HTML | CSS  
 
