@@ -28,7 +28,7 @@ I am a Frontend Developer focused on building scalable, responsive, and user-cen
 <pre>   <p style="font-size:8px"><b>Tech Stack:</b><br>HTML5 |CSS3 <br><b>Functionality:</b><br>- Small UI components and layouts built for practice<br>- Focused on improving styling, positioning, and responsiveness<br>- Includes multiple mini UI screens and experiments<br><b>Impact:</b><br>- Strengthens core frontend fundamentals<br>- Demonstrates understanding of DOM manipulation and event handling<br>- Builds consistency in UI design practice <br></pre><br><hr>
 
 ## Contact Me:  
-<p style="font-size:9px"><b>LinkedIn:</b><br></p>
-<p style="font-size:9px"><b>Email:</b><br></p>
+<p style="font-size:9px"><b>LinkedIn:https://www.linkedin.com/in/prajakta-deokar-865597181/</b><br></p>
+<p style="font-size:9px"><b>Email:</b>prajaktadeokar1996@gmail.com<br></p>
 
    
