@@ -1,4 +1,4 @@
-# Prajakta.d | About Me
+# About Me | Prajakta.d 
 
 Frontend Developer focused on building scalable, responsive, and user-centric web applications using React and modern web technologies.I specialize in turning ideas into real-world products with clean UI and reusable components.
 Alongside frontend development, I have hands-on experience in embedded systems using Raspberry Pi and Python, where I worked on real-time data acquisition systems.Currently, I am actively building production-level projects.
