@@ -1,17 +1,11 @@
-# 👋 About Me
+# About Me
 
-Frontend Developer focused on building scalable, responsive, and user-centric web applications using React and modern web technologies.
-
-I specialize in turning ideas into real-world products with clean UI and reusable components.
-
-Alongside frontend development, I have hands-on experience in embedded systems using Raspberry Pi and Python, where I worked on real-time data acquisition systems.
-
-Currently, I am actively building production-level projects.
+Frontend Developer focused on building scalable, responsive, and user-centric web applications using React and modern web technologies.I specialize in turning ideas into real-world products with clean UI and reusable components.
+Alongside frontend development, I have hands-on experience in embedded systems using Raspberry Pi and Python, where I worked on real-time data acquisition systems.Currently, I am actively building production-level projects.
 
 ---
 
-# 🛠 Tech Stack
-
+# Tech Stack
 ## Frontend Development
 - HTML5
 - CSS3
@@ -28,12 +22,9 @@ Currently, I am actively building production-level projects.
 - Python
 - Raspberry Pi
 - Kivy / KivyMD (UI development)
-
 ---
-
-# 📌 Projects
-
-## 🛒 Swiggy Clone (React + Tailwind)
+# Projects
+## Swiggy Clone (React + Tailwind)
 **Tech Stack:**
 React.js | Tailwind CSS | JavaScript (ES6+) | React Router  
 
@@ -45,10 +36,8 @@ React.js | Tailwind CSS | JavaScript (ES6+) | React Router
 **Impact:**
 - Shows real-world React architecture
 - Demonstrates reusable UI design and routing
-
 ---
-
-## 📊 Data Acquisition System (Raspberry Pi)
+## Data Acquisition System (Raspberry Pi)
 **Tech Stack:**
 Python | Raspberry Pi | Kivy / KivyMD  
 
@@ -60,10 +49,8 @@ Python | Raspberry Pi | Kivy / KivyMD
 **Impact:**
 - Demonstrates embedded systems + software integration
 - Shows real-time data handling capability
-
 ---
-
-## 🛍 Amazon Clone
+## Amazon Clone
 **Tech Stack:**
 HTML5 | CSS3  
 
@@ -74,10 +61,8 @@ HTML5 | CSS3
 **Impact:**
 - Strengthens HTML/CSS fundamentals
 - Builds UI structuring skills
-
 ---
-
-## 🎮 JavaScript Mini Projects
+## JavaScript Mini Projects
 **Tech Stack:**
 HTML | CSS | JavaScript  
 
@@ -90,8 +75,7 @@ HTML | CSS | JavaScript
 - Strengthens UI interaction handling
 
 ---
-
-## 🎨 HTML-CSS Mini Projects
+## HTML-CSS Mini Projects
 **Tech Stack:**
 HTML | CSS  
 
@@ -104,8 +88,7 @@ HTML | CSS
 - Improves UI structuring consistency
 
 ---
-
-# 📫 Contact Me
+# Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/prajakta-deokar-865597181/
 - Email: prajaktadeokar1996@gmail.com
