@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+body{
+    background-color:#fefae0;
+    color:#003049;
+}
+
+nav{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color:#003049;
+    color:antiquewhite;
+    height:99px;
+    width:100%;
+}
+
+nav ul{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+nav ul li{
+    list-style:none;
+    margin:0 80px;
+
+}
+
+.left{
+    font-size:2.2rem;
+}
+
+.firstSection{
+    display:flex;
+    justify-content:"space-around";
+    margin:40px 0;
+}
+
