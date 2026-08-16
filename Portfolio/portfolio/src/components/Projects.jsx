@@ -2,11 +2,11 @@ import React from 'react';
 
 const projectData = [
   {
-    title: "E-Commerce Dashboard",
-    description: "A fully responsive admin dashboard built with React and CSS Grid featuring interactive charts and data tables.",
+    title: "Flipkart Lite",
+    description: "A fully responsive e-commerce built with React and CSS3 integration featuring search debouncing, sorting, light-fast web store-front.",
     tech: ["React", "CSS3", "JavaScript"],
-    liveLink: "#",
-    codeLink: "#"
+    liveLink: "https://flipkart-clone-flipkart-lite.vercel.app/",
+    codeLink: "https://github.com/PrajaktaD1996/Flipkart-clone-Flipkart--Lite-/tree/main/e-commerce-catalog"
   },
   {
     title: "Weather App",
