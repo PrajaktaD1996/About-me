@@ -9,18 +9,18 @@ const projectData = [
     codeLink: "https://github.com/PrajaktaD1996/Flipkart-clone-Flipkart--Lite-/tree/main/e-commerce-catalog"
   },
   {
-    title: "Weather App",
-    description: "A dynamic weather application fetching real-time data from an external API with clean UI animations.",
-    tech: ["React", "API Integration", "CSS3"],
-    liveLink: "#",
-    codeLink: "#"
+    title: "Aai chat-Bot",
+    description: "An AI-powered conversational web application that simulates the quintessential dramatic, guilt-inducing, but deeply loving Indian mother persona.",
+    tech: ["React", "Vite", "Tailwind CSS"," Node.js / LLM API Integration"],
+    liveLink: "https://chat-aai-bot.vercel.app/",
+    codeLink: "https://github.com/PrajaktaD1996/Chat-aai-bot"
   },
   {
-    title: "Task Management App",
-    description: "A productivity tool allowing users to create, update, and organize daily tasks with local storage persistence.",
-    tech: ["React", "Hooks", "HTML5"],
-    liveLink: "#",
-    codeLink: "#"
+    title: "Industrial-Plant-Safety-Predictive-Monitoring-System",
+    description: "An end-to-end IoT monitoring system that reads sensor data via an ESP8266 microcontroller, logs it to ThingSpeak cloud, and visualizes live telemetry on a React frontend dashboard.",
+    tech: ["Arduino IDE, ESP8266 Wi-Fi Microcontroller", "ThingSpeak REST API / Cloud Channel", "React, Vite, Axios, Chart.js, CSS"],
+    liveLink: "https://weatheriotdashboard.vercel.app/",
+    codeLink: "https://github.com/PrajaktaD1996/Industrial-Plant-Safety-Predictive-Monitoring-System"
   }
 ];
 

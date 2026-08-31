@@ -31,7 +31,7 @@ body {
 .nav-brand {
   font-size: 1.5rem;
   font-weight: bold;
-  color:#12674A; /* Changed to Yellow */
+  color: #D78C3D; /* Changed to Yellow */
 }
 
 .nav-links {
@@ -48,7 +48,7 @@ body {
 }
 
 .nav-links a:hover {
-  color: #12674A; /* Changed to Yellow */
+  color: #D78C38; /* Changed to Yellow */
 }
 
 /* Hero Section */
@@ -67,7 +67,7 @@ body {
 }
 
 .highlight {
-  color: #12674A; /* Changed to Yellow */
+  color: #D78C3D; /* Changed to Yellow */
 }
 
 .hero h2 {
@@ -100,12 +100,12 @@ body {
 }
 
 .primary-btn {
-  background-color: #12674A; /* Changed to Yellow */
+  background-color: #D78C3D; /* Changed to Yellow */
   color: #0f172a;            /* Dark text for contrast */
 }
 
 .primary-btn:hover {
-  background-color: #12674A; /* Darker Yellow on hover */
+  background-color: #D78C3D; /* Darker Yellow on hover */
 }
 
 .secondary-btn {
@@ -115,7 +115,7 @@ body {
 }
 
 .secondary-btn:hover {
-  border-color: #12674A;     /* Changed to Yellow */
+  border-color: #D78C3D;     /* Changed to Yellow */
 }
 
 /* Sections General */
@@ -147,7 +147,7 @@ section h2 {
 
 .skills-grid span {
   background: #1e293b;
-  color: #12674A;            /* Changed to Yellow */
+  color: #D78C3D;            /* Changed to Yellow */
   padding: 0.5rem 1rem;
   border-radius: 20px;
   font-size: 0.9rem;
@@ -171,7 +171,7 @@ section h2 {
 
 .project-card:hover {
   transform: translateY(-5px);
-  border-color: #12674A;     /* Changed to Yellow */
+  border-color: #D78C3D;     /* Changed to Yellow */
 }
 
 .project-card h3 {
@@ -201,7 +201,7 @@ section h2 {
 }
 
 .project-links a {
-  color: #12674A;            /* Changed to Yellow */
+  color: #D78C3D;            /* Changed to Yellow */
   text-decoration: none;
   font-weight: 500;
 }
@@ -233,7 +233,7 @@ section h2 {
 .contact-form input:focus,
 .contact-form textarea:focus {
   outline: none;
-  border-color: #12674A;     /* Changed to Yellow */
+  border-color: #D78C3D;     /* Changed to Yellow */
 }
 
 /* Footer */
